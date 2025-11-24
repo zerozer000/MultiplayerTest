@@ -1,0 +1,4 @@
+C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestServer\obj\Debug\net8.0\MultiplayerTCPSocketsTestServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestServer\obj\Debug\net8.0\MultiplayerTCPSocketsTestServer.AssemblyInfoInputs.cache
+C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestServer\obj\Debug\net8.0\MultiplayerTCPSocketsTestServer.AssemblyInfo.cs
+C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestServer\obj\Debug\net8.0\MultiplayerTCPSocketsTestServer.csproj.CoreCompileInputs.cache
