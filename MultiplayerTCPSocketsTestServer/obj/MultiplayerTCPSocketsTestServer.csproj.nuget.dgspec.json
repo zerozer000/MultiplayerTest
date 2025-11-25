@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj": {}
+    "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj": {
+    "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj",
+        "projectUniqueName": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj",
         "projectName": "MultiplayerTCPSocketsTestServer",
-        "projectPath": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj",
+        "projectPath": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestServer\\MultiplayerTCPSocketsTestServer.csproj",
         "packagesPath": "C:\\Users\\zer0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestServer\\obj\\",
+        "outputPath": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestClient\\MultiplayerTCPSocketsTestClient.csproj",
+      "projectUniqueName": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestClient\\MultiplayerTCPSocketsTestClient.csproj",
       "projectName": "MultiplayerTCPSocketsTestClient",
-      "projectPath": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestClient\\MultiplayerTCPSocketsTestClient.csproj",
+      "projectPath": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestClient\\MultiplayerTCPSocketsTestClient.csproj",
       "packagesPath": "C:\\Users\\zer0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zer0\\Desktop\\untitledgame\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTest\\MultiplayerTCPSocketsTestClient\\obj\\",
+      "outputPath": "C:\\Users\\zer0\\Desktop\\MPtest\\MultiplayerTest\\MultiplayerTCPSocketsTestClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplayerTCPSocketsTestServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be277cca85621ef686eb0d119b32f5eebc3a80e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplayerTCPSocketsTestServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplayerTCPSocketsTestServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
