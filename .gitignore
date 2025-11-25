@@ -1,2 +1,8 @@
 /output
 /.vs
+
+/MultiplayerTCPSocketsTestServer/obj/Release/
+/MultiplayerTCPSocketsTestServer/obj/Debug/
+
+/MultiplayerTCPSocketsTestClient/obj/Release/
+/MultiplayerTCPSocketsTestClient/obj/Debug/
