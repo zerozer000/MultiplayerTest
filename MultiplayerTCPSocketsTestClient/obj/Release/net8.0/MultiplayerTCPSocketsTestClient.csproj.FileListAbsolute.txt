@@ -10,3 +10,15 @@ C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocke
 C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\refint\MultiplayerTCPSocketsTestClient.dll
 C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.genruntimeconfig.cache
 C:\Users\zer0\Desktop\untitledgame\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\ref\MultiplayerTCPSocketsTestClient.dll
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\output\client\Release\net8.0\MultiplayerTCPSocketsTestClient.exe
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\output\client\Release\net8.0\MultiplayerTCPSocketsTestClient.deps.json
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\output\client\Release\net8.0\MultiplayerTCPSocketsTestClient.runtimeconfig.json
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\output\client\Release\net8.0\MultiplayerTCPSocketsTestClient.dll
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.AssemblyInfoInputs.cache
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.AssemblyInfo.cs
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.csproj.CoreCompileInputs.cache
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.dll
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\refint\MultiplayerTCPSocketsTestClient.dll
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\MultiplayerTCPSocketsTestClient.genruntimeconfig.cache
+C:\Users\zer0\Desktop\MPtest\MultiplayerTest\MultiplayerTCPSocketsTestClient\obj\Release\net8.0\ref\MultiplayerTCPSocketsTestClient.dll
